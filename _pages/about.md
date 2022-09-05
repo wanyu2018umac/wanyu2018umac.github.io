@@ -11,9 +11,7 @@ redirect_from:
 **Intro**
 ------
 
-My name is **Yu WAN** (万宇). I am currently a Ph.D. student at [NLP2CT Lab, University of Macau](http://nlp2ct.cis.umac.mo/), advised by [Prof. Derek F. Wong](https://www.fst.um.edu.mo/personal/derek-wong/).
-
-My publications can be found [here](https://dayihengliu.github.io/publications/).
+My name is **Yu WAN** (万宇). I'm a Ph.D. student at [NLP2CT Lab, University of Macau](http://nlp2ct.cis.umac.mo/), advised by [Prof. Derek F. Wong](https://www.fst.um.edu.mo/personal/derek-wong/). Also, I'm currently research intern at DAMO Academy, Alibaba Group.
 
 **Research Interests**
 ------
