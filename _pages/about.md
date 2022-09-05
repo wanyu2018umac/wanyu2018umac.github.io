@@ -24,7 +24,7 @@ Natural language processing, machine learning, machine translation, translation 
 + 2020.5 - Present, **Research Intern**, [Alibaba DAMO Academy](https://damo.alibaba.com/labs/language-technology)
   + Mentor: [Baosong Yang](https://baosongyang.site/)
 
-+ 2018.8 - Present, **Postgraduate, Doctorial Student**, [NLP2CT Lab, University of Macau](http://nlp2ct.cis.umac.mo/)
++ 2018.8 - Present, **Postgraduate, Ph.D. Candidate**, [NLP2CT Lab, University of Macau](http://nlp2ct.cis.umac.mo/)
   + Adviser: [Prof. Derek F. Wong](https://www.fst.um.edu.mo/personal/derek-wong/)
 
 + 2014.9 - 2017.6, **Postgraduate, Master Student**, [NLP Lab, Xiamen University](http://nlp.xmu.edu.cn/)
