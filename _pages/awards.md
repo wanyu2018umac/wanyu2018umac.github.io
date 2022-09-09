@@ -14,7 +14,7 @@ Alibaba Group Outstanding Science Research Intern [[link]](https://damo.alibaba.
 ----
 
 Ranking 1st place on multilingual and English-Russian track, 2nd place on English-German and
-Chinese-English track on WMT Quality Estimation Shared Task – MQM benchmark. [[official results]](https://codalab.lisn.upsaclay.fr/competitions/6866)
+Chinese-English track on WMT Quality Estimation Shared Task – MQM benchmark. [[submission results]](https://codalab.lisn.upsaclay.fr/competitions/6866) [[official results]](https://www.statmt.org/wmt22/quality-estimation-task_results.html#task1_mqm_results)
 
 **WMT 2021 Metrics Shared Task, 2021**
 ----

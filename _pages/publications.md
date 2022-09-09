@@ -19,4 +19,4 @@ Yikai Zhou, Baosong Yang, Derek F. Wong, **Yu Wan**, and Lidia S. Chao. 2020. **
 
 **Yu Wan***, Baosong Yang*, Derek F. Wong, Lidia S. Chao, Haihua Du, and Ben CH. Ao. 2020. **Unsupervised Neural Dialect Translation with Commonality and Diversity Modeling**. In: **AAAI**. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6448) [[code]](https://github.com/wanyu2018umac/Unsupervised_Dialect_Translation)
 
-**Yu Wan**, Yidong Chen, Xiaodong Shi, and Changle Zhou. 2018. **Constructing and Validating Word Similarity Datasets by Integrating Methods from Psychology, Brain Science and Computational Linguistics**. **Soft Computing**, 22(21): 6967–6979.
+**Yu Wan**, Yidong Chen, Xiaodong Shi, and Changle Zhou. 2018. **Constructing and Validating Word Similarity Datasets by Integrating Methods from Psychology, Brain Science and Computational Linguistics**. **Soft Computing**, 22(21): 6967–6979. [[paper]](https://link.springer.com/article/10.1007/s00500-018-3174-1)
