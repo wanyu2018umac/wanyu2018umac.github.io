@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Rong Xiao, **Yu Wan**, Baosong Yang, Haibo Zhang, Huajin Tang, Derek F Wong, and Boxing Chen. 2022. **Towards Energy-Preserving Natural Language Understanding with Spiking Neural Networks**. **IEEE/ACM Transactions on Audio, Speech, and Language Processing**. [[paper]](https://ieeexplore.ieee.org/abstract/document/9944911)
+
 **Yu Wan**, Dayiheng Liu, Baosong Yang, Haibo Zhang, Boxing Chen, Derek Wong, and Lidia Chao. 2022. **UniTE: Unified Translation Evaluation**. In: **ACL**. [[paper]](https://aclanthology.org/2022.acl-long.558/) [[code]](https://github.com/wanyu2018umac/UniTE)
 
 **Yu Wan***, Baosong Yang*, Dayiheng Liu, Rong Xiao, Derek Wong, Haibo Zhang, Boxing Chen, and Lidia Chao. 2022. **Attention Mechanism with Energy-Friendly Operations**. In: **Findings@ACL**. [[paper]](https://aclanthology.org/2022.findings-acl.313/) [[code]](https://github.com/wanyu2018umac/E-Att)
