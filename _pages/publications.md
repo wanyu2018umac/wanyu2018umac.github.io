@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Rong Xiao\*, **Yu Wan**\*, Baosong Yang, Haibo Zhang, Huajin Tang, Derek F Wong, and Boxing Chen. 2023. **Towards Energy-Preserving Natural Language Understanding with Spiking Neural Networks**. *IEEE/ACM Transactions on Audio, Speech, and Language Processing*. [[paper]](https://ieeexplore.ieee.org/abstract/document/9944911)
+Rong Xiao\*, **Yu Wan**\*, Baosong Yang, Haibo Zhang, Huajin Tang, Derek F Wong, and Boxing Chen. 2023. **Towards Energy-Preserving Natural Language Understanding with Spiking Neural Networks**. *IEEE/ACM Transactions on Audio, Speech, and Language Processing*, 31: 439-447. [[paper]](https://ieeexplore.ieee.org/abstract/document/9944911)
 
 Keqin Bao\*, **Yu Wan**\*, Dayiheng Liu, Baosong Yang, Wenqiang Lei, Xiangnan He, Derek F. Wong, and Jun Xie. **Alibaba-Translate China’s Submission for WMT 2022 Quality Estimation Shared Task**. In: *WMT*. [[paper]](https://aclanthology.org/2022.wmt-1.55/)
 
