@@ -7,9 +7,9 @@ author_profile: true
 
 Rong Xiao\*, **Yu Wan**\*, Baosong Yang, Haibo Zhang, Huajin Tang, Derek F Wong, and Boxing Chen. 2023. **Towards Energy-Preserving Natural Language Understanding with Spiking Neural Networks**. *IEEE/ACM Transactions on Audio, Speech, and Language Processing*. [[paper]](https://ieeexplore.ieee.org/abstract/document/9944911)
 
-Keqin Bao\*, **Yu Wan**\*, Dayiheng Liu, Baosong Yang, Wenqiang Lei, Xiangnan He, Derek F. Wong, and Jun Xie. **Alibaba-Translate China’s Submission for WMT 2022 Quality Estimation Shared Task**. In: *WMT*. [[paper]](https://www.statmt.org/wmt22/pdf/2022.wmt-1.55.pdf)
+Keqin Bao\*, **Yu Wan**\*, Dayiheng Liu, Baosong Yang, Wenqiang Lei, Xiangnan He, Derek F. Wong, and Jun Xie. **Alibaba-Translate China’s Submission for WMT 2022 Quality Estimation Shared Task**. In: *WMT*. [[paper]](https://aclanthology.org/2022.wmt-1.55/)
 
-**Yu Wan**\*, Keqin Bao\*, Dayiheng Liu, Baosong Yang, Derek F. Wong, Lidia S. Chao, Wenqiang Lei, and Jun Xie. 2022. **Alibaba-Translate China’s Submission for WMT 2022 Metrics Shared Task**. In: *WMT*. [[paper]](https://www.statmt.org/wmt22/pdf/2022.wmt-1.53.pdf)
+**Yu Wan**\*, Keqin Bao\*, Dayiheng Liu, Baosong Yang, Derek F. Wong, Lidia S. Chao, Wenqiang Lei, and Jun Xie. 2022. **Alibaba-Translate China’s Submission for WMT 2022 Metrics Shared Task**. In: *WMT*. [[paper]](https://aclanthology.org/2022.wmt-1.53/)
 
 **Yu Wan**, Dayiheng Liu, Baosong Yang, Haibo Zhang, Boxing Chen, Derek Wong, and Lidia Chao. 2022. **UniTE: Unified Translation Evaluation**. In: *ACL*. [[paper]](https://aclanthology.org/2022.acl-long.558/) [[code from modelscope]](https://www.modelscope.cn/models/damo/nlp_unite_mup_translation_evaluation_multilingual_large) [[code from github]](https://github.com/wanyu2018umac/UniTE)
 
