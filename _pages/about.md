@@ -11,7 +11,7 @@ redirect_from:
 **Intro**
 ------
 
-My name is **Yu WAN** (万宇). I got my Master's degree at [NLP lab, Xiamen University](http://nlp.xmu.edu.cn/), advised by [Prof. Yidong CHEN](http://nlp.xmu.edu.cn/teachers/ydchen/index_en.html), and Ph.D degree at [NLP2CT Lab, University of Macau](http://nlp2ct.cis.umac.mo/), advised by [Prof. Derek F. WONG](https://www.fst.um.edu.mo/personal/derek-wong/). I'm currently a researcher at [DAMO Academy, Alibaba Group](https://damo.alibaba.com/labs/language-technology).
+My name is **Yu WAN** (万宇). I got my Master's degree at [NLP lab, Xiamen University](http://nlp.xmu.edu.cn/), advised by [Prof. Yidong CHEN](http://nlp.xmu.edu.cn/teachers/ydchen/index_en.html), and Ph.D degree at [NLP2CT Lab, University of Macau](http://nlp2ct.cis.umac.mo/), advised by [Prof. Derek F. WONG](https://www.fst.um.edu.mo/personal/derek-wong/). I'm currently a researcher at [Tongyi Lab, Alibaba Group](https://tongyi.aliyun.com/).
 
 **Research Interests**
 ------
@@ -20,11 +20,17 @@ My name is **Yu WAN** (万宇). I got my Master's degree at [NLP lab, Xiamen Uni
 + machine learning
 + machine translation
 + translation quality estimation and metric
++ large language models
 
 **Experience**
 ------
++ 2024.9: QWen 2.5 series has been released. See the [blog](https://qwenlm.github.io/blog/qwen2.5).
 
-+ 2023.6 - Present, **Researcher**, [DAMO Academy, Alibaba Group](https://damo.alibaba.com/labs/language-technology)
++ 2024.5: QWen 2 series has been released. See the [blog](https://qwenlm.github.io/blog/qwen2/).
+
++ 2024.1: QWen 1.5 series has been released. See the [blog](https://qwenlm.github.io/blog/qwen1.5/) 
+
++ 2023.6 - Present, **Researcher**, [Tongyi Lab, Alibaba Group](https://tongyi.aliyun.com/)
 
 + 2020.5 - 2023.5, **Research Intern**, [DAMO Academy, Alibaba Group](https://damo.alibaba.com/labs/language-technology)
   + Mentor: [Baosong Yang](https://baosongyang.site/)
