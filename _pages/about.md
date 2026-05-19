@@ -24,11 +24,19 @@ My name is **Yu WAN** (万宇). I got my Master's degree at [NLP lab, Xiamen Uni
 
 **Experience**
 ------
-+ 2024.9: QWen 2.5 series has been released. See the [blog](https://qwenlm.github.io/blog/qwen2.5).
++ 2026.4: We released Qwen-Scope, aiming to deliver interpretability for Qwen model series. See the [blog](https://qwen.ai/blog?id=qwen-scope).
 
-+ 2024.5: QWen 2 series has been released. See the [blog](https://qwenlm.github.io/blog/qwen2/).
++ 2026.2: Open-sourced Qwen 3.5 model series. See the [blog](https://qwen.ai/blog?id=qwen3.5).
 
-+ 2024.1: QWen 1.5 series has been released. See the [blog](https://qwenlm.github.io/blog/qwen1.5/) 
++ 2025.7: Qwen-MT: Where Speed Meets Smart Translation. See the [blog](https://qwen.ai/blog?id=qwen-mt).
+
++ 2025.4: Open-sourced  Qwen 3 series. See the [blog](https://Qwenlm.github.io/blog/Qwen3).
+
++ 2024.9: Open-sourced  Qwen 2.5 series. See the [blog](https://Qwenlm.github.io/blog/Qwen2.5).
+
++ 2024.5: Open-sourced  Qwen 2 series. See the [blog](https://Qwenlm.github.io/blog/Qwen2/).
+
++ 2024.1: Open-sourced  Qwen 1.5 series. See the [blog](https://Qwenlm.github.io/blog/Qwen1.5/) 
 
 + 2023.6 - Present, **Researcher**, [Tongyi Lab, Alibaba Group](https://tongyi.aliyun.com/)
 
