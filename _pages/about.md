@@ -11,7 +11,7 @@ redirect_from:
 **Intro**
 ------
 
-My name is **Yu WAN** (万宇). I got my Master's degree at [NLP lab, Xiamen University](http://nlp.xmu.edu.cn/), advised by [Prof. Yidong CHEN](http://nlp.xmu.edu.cn/teachers/ydchen/index_en.html), and Ph.D degree at [NLP2CT Lab, University of Macau](http://nlp2ct.cis.umac.mo/), advised by [Prof. Derek F. WONG](https://www.fst.um.edu.mo/personal/derek-wong/). I'm currently a researcher at [Tongyi Lab, Alibaba Group](https://tongyi.aliyun.com/), focusing on multilingualism and interpretability of Qwen.
+My name is **Yu WAN** (万宇). I got my Master's degree at [NLP lab, Xiamen University](http://nlp.xmu.edu.cn/), advised by [Prof. Yidong CHEN](http://nlp.xmu.edu.cn/teachers/ydchen/index_en.html), and Ph.D degree at [NLP2CT Lab, University of Macau](http://nlp2ct.cis.umac.mo/), advised by [Prof. Derek F. WONG](https://www.fst.um.edu.mo/personal/derek-wong/). I'm currently a researcher focusing on multilingualism and interpretability of Qwen.
 
 **Research Interests**
 ------
