@@ -5,6 +5,12 @@ permalink: /awards/
 author_profile: true
 ---
 
+
+**EMNLP, 2026**
+
+Our paper titled *Do Benchmarks Measure the Same Thing? Evaluation-Free Benchmark Redundancy Analysis with SAE* won an Outstanding Paper Award at EMNLP'26. Congratulations to all the coauthors for their hardwork, as well as main contributors of Qwen-Scope project!
+
+
 **WMT 2022 Metrics Shared Task, 2022**
 ----
 
