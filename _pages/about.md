@@ -24,6 +24,9 @@ My name is **Yu WAN** (万宇). I got my Master's degree at [NLP lab, Xiamen Uni
 
 **Experience**
 ------
+
++ 2026.10: Our paper titled *Do Benchmarks Measure the Same Thing? Evaluation-Free Benchmark Redundancy Analysis with SAE* just won an Outstanding Paper Award at EMNLP'26. Congrats to all coauthors! [Paper link](https://aclanthology.org/2026.emnlp-main.1284/)
+
 + 2026.4: We released Qwen-Scope, aiming to deliver interpretability for Qwen model series. See the [blog](https://qwen.ai/blog?id=qwen-scope).
 
 + 2026.2: Open-sourced Qwen 3.5 model series. See the [blog](https://qwen.ai/blog?id=qwen3.5).
