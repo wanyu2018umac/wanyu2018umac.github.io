@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Yaoning Wang, Jiahao Ying, Yubo Ma, **Yu Wan**, Dayiheng Liu, Yixin Cao, and Yu-Gang Jiang. 2026. Do Benchmarks Measure the Same Thing? Evaluation-Free Benchmark Redundancy Analysis with SAE. [[Outstanding Paper Award]](https://2026.emnlp.org/program/awards_papers/#outstanding-papers). [[paper]](https://aclanthology.org/2026.emnlp-main.1284/)
+Yaoning Wang, Jiahao Ying, Yubo Ma, **Yu Wan**, Dayiheng Liu, Yixin Cao, and Yu-Gang Jiang. 2026. Do Benchmarks Measure the Same Thing? Evaluation-Free Benchmark Redundancy Analysis with SAE. [Outstanding Paper Award](https://2026.emnlp.org/program/awards_papers/#outstanding-papers) (Congrats to all coauthors!) [[paper]](https://aclanthology.org/2026.emnlp-main.1284/)
 
 Boyi Deng, Xu Wang, Yaoning Wang, **Yu Wan**, Yubo Ma, Baosong Yang, Haoran Wei, Jialong Tang, Huan Lin, Ruize Gao, Tianhao Li, Qian Cao, Xuancheng Ren, Xiaodong Deng, An Yang, Fei Huang, Dayiheng Liu, Jingren Zhou. 2026. **Qwen-Scope: Turning Sparse Features into Development Tools for Large Language Models**. [[paper]](https://arxiv.org/abs/2605.11887) [[blog]](https://qwen.ai/blog?id=qwen-scope) [[huggingface]](https://huggingface.co/collections/Qwen/qwen-scope) [[modelscope]](https://modelscope.cn/collections/Qwen/Qwen-Scope)
 
